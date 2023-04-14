@@ -22,3 +22,13 @@
   - Run `npm install` in your terminal
   - Run `npm start`
   - Happy hacking!
+
+## Example
+
+**Main page**
+
+![Main page](https://github.com/Reptiloit044/react-native-gallery/blob/main/assets/MyGallery.PNG)
+
+**Card item**
+
+![Card item](https://github.com/Reptiloit044/react-native-gallery/blob/main/assets/CardItem.PNG)
