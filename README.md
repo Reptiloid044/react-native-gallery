@@ -27,8 +27,8 @@
 
 **Main page**
 
-![Main page](https://github.com/Reptiloit044/react-native-gallery/blob/main/assets/MyGallery.PNG)
+![Main page](https://github.com/Reptiloit044/react-native-gallery/raw/main/assets/exaplmes/MyGallery.PNG)
 
 **Card item**
 
-![Card item](https://github.com/Reptiloit044/react-native-gallery/blob/main/assets/CardItem.PNG)
+![Card item](https://github.com/Reptiloit044/react-native-gallery/raw/main/assets/exaplmes/CardItem.PNG)
