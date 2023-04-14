@@ -2,6 +2,8 @@
   "name": "react-native-gallery",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
+  "homepage": "https://Reptiloid044.github.io/react-native-gallery",
+  "type": "module",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
